@@ -1,1 +1,1 @@
-# C-
+Variabel Adala Suatu pengenal (indetifier).
